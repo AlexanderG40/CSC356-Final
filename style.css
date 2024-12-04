@@ -1,0 +1,26 @@
+/* style the body */
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #588204;
+    color: white;
+}
+/* style the player list */
+.player_list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+/* style the player */
+.player{
+    border: 5px solid #91999f;
+    padding: 10px;
+    cursor: pointer;
+    width: 150px;
+    text-align: center;
+    background-color: #305155;
+}
+
+.budget_info{
+    margin: 20px 0;
+}
