@@ -3,7 +3,15 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: #588204;
-    color: white;
+    color: rgb(1, 47, 184);
+}
+/* Added style to the submit button to make it more enjoayble */
+button[type="submit"]{
+    color: rgb(223, 40, 19);
+    background-color: rebeccapurple;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
 }
 /* style the player list */
 .player_list{
