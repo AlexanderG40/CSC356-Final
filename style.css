@@ -5,6 +5,8 @@ body{
     background-color: #588204;
     color: rgb(1, 47, 184);
 }
+
+
 /* Added style to the submit button to make it more enjoayble */
 button[type="submit"]{
     color: rgb(223, 40, 19);
